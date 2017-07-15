@@ -16,6 +16,7 @@
 - [Learn Vue 2 step by step on laracasts](https://laracasts.com/series/learn-vue-2-step-by-step/episodes/19)
 - [Laravel/VueJS App example with JWT](https://github.com/phanan/koel)
 - [Intro into VueJS, Originally by Sarah Drasner (https://github.com/sdras)](https://github.com/sdras/intro-to-vue)
+- [Slidedeck - Journey into VueJS at JSinSA conference 2017 in Johannesburg](https://www.slideshare.net/EtienneMarais2/journey-into-vuejs-jsinsa-2017)
 
 ## Webpack and Laravel mix
 
