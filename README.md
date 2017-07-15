@@ -15,6 +15,7 @@
 - [Curated list of vue components](https://curated.vuejs.org/)
 - [Learn Vue 2 step by step on laracasts](https://laracasts.com/series/learn-vue-2-step-by-step/episodes/19)
 - [Laravel/VueJS App example with JWT](https://github.com/phanan/koel)
+- [Intro into VueJS, Originally by Sarah Drasner (https://github.com/sdras)](https://github.com/sdras/intro-to-vue)
 
 ## Webpack and Laravel mix
 
